@@ -89,7 +89,7 @@ Survival Duration by Age Group
 
 #### Gender: Men (60.7%) dominate; women-led startups only 9.9%. Mixed-gender teams (29.4%) are a positive sign.
 
-####Customer & Revenue: B2B dominates; B2C has higher failures. Mixed models balance risk.
+#### Customer & Revenue: B2B dominates; B2C has higher failures. Mixed models balance risk.
 
 #### Survival: Startups typically survive ~10 years before scaling, exiting, or shutting down.
 
