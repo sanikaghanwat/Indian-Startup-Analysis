@@ -7,6 +7,14 @@ In India, many people hesitate to pursue entrepreneurship due to the fear of sta
 To analyze Indian startup ecosystem data to understand patterns in funding, founder background, sectors, and other factors that influence startup success or failure. The goal is to provide insights that can help entrepreneurs, investors, and policymakers make better decisions."
 Data Cleaning & Preprocessing
 
+# Dataset: 
+        Date', 'Startup_Name', 'Sector', 'City', 'Funding_Type',
+       'Funding_Amount', 'Education_Background', 'Age_Group',
+       'Professional_Background', 'Gender_Mix', 'Initial_Investment',
+       'Burn_Rate', 'Revenue_Model', 'Customer_Type', 'City_Tier',
+       'Competition_Level', 'No_of_CoFounders', 'Status',
+       'Survival_Duration_Years
+
 # The dataset contained:
 
 Missing values → Replaced with "Unknown" (categorical) or 0 / mean / median (numerical).
