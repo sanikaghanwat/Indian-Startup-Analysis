@@ -39,12 +39,12 @@ The analysis was performed at three levels:
 ### Numerical: Funding Amount, Initial Investment, Burn Rate, Survival Years.
 <img width="1020" height="506" alt="image" src="https://github.com/user-attachments/assets/8cac535c-4d87-4b9f-aaac-3cc0546d0d29" />
 
-### Bivariate Analysis
+## Bivariate Analysis
 
-## Categorical vs Categorical (Sector vs Status).
+### Categorical vs Categorical (Sector vs Status).
 <img width="809" height="513" alt="image" src="https://github.com/user-attachments/assets/9e2e85d0-7062-45a6-aff6-e881171954c9" />
 
-##Categorical vs Numerical (Funding Type vs Funding Amount).
+### Categorical vs Numerical (Funding Type vs Funding Amount).
 
 <img width="543" height="404" alt="image" src="https://github.com/user-attachments/assets/2338dab9-65a2-4d94-af83-5642aa049439" />
 
@@ -55,7 +55,7 @@ The analysis was performed at three levels:
 
 <img width="983" height="554" alt="image" src="https://github.com/user-attachments/assets/3a328683-ea27-4522-83bc-7853407f0227" />
 
-### Multivariate Analysis
+## Multivariate Analysis
 
 Most Common Sectors
 <img width="925" height="555" alt="image" src="https://github.com/user-attachments/assets/e900ed5e-6b8e-41f2-a622-bfcc2ca284d0" />
